@@ -1,2 +1,14 @@
 # team-migu-notes
-HTML page archive and documentation
+
+公开页面文件归档
+
+发布生成的页面会被写入这里，形成一组可访问的静态文件。
+
+## 保存位置
+
+- 页面文件默认保存在仓库根目录
+- 说明文件保存在 `README.md`
+
+## 维护备注
+
+若仓库启用 Pages，页面可通过 Pages 地址进行访问。
